@@ -1,3 +1,1 @@
-Company,Input,Output,Comments
-AFF Industries,$10 ,$100 ,"		The best company on earth"
-"HSF Ventures	$20",$20 ,$200 ,The worst company on earth
+Company,Input,Output,Comments,PotentialAFF Industries,$10,$100,The best company on earth,Medium"HSF Ventures	$20",$20,$200,The worst company in the universe,Low. Very LowMJF Capital,"$50,000",$20,"Wow, they are a great company",HIGH!!
